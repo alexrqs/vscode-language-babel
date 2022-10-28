@@ -54,3 +54,5 @@ class FlowTypeArguments extends React.Component<MyProps> {
     return null;
   }
 }
+
+const n = 22_222
